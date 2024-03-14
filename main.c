@@ -1,6 +1,6 @@
 // sparkrate Calculator for SRB2kart by NepDisk
 // How many frames will it take to get to each defined value or boost type.
-//	Code for driftspark buff by Onyo.
+// Code for driftspark buff by Onyo.
 
 #include <stdio.h>
 #include <stdlib.h>
